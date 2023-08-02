@@ -1,19 +1,18 @@
 <p align="center">
 <a href="https://github.com/phuckhangbui">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=0246F7&center=true&vCenter=true&width=435&height=20&lines=Phuc+Khang+Bui" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1&pause=1000&color=0246F7&center=true&vCenter=true&width=435&height=20&lines=Phuc+Khang+Bui" alt="Typing SVG" /></a>
 </a>
 </p>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0246F7&center=true&vCenter=true&width=435&lines=Software+Engineer+Student;Fullstack+Web+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0246F7&center=true&vCenter=true&width=800&lines=Software+Engineering+Student+at+FPT+University;Fullstack+Web+Developer" alt="Typing SVG" /></a>
 </p>
 
 **`Digital Nomad (Student/Developer)`**
 
+-   👨‍🎓 My fullname is **Bùi Nguyễn Phúc Khang**
 -   🔭 I’m currently working on an e-commerce app prototype
 -   🌱 I’m currently learning C#, TypeScript, Angular, Docker, ...
--   🤔 I’m looking for help with
 -   📫 Email me: khangnguyenphucbui@gmail.com
--   ⚡ Fun fact: ...
 
 ### 🧰 Languages and Tools
 
@@ -32,19 +31,20 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
+<br/>
+<a href="https://github.com/phuckhangbui?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
-<!--
-**phuckhangbui/phuckhangbui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Stats
 
-Here are some ideas to get you started:
+<div align="center">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=phuckhangbui&rank_icon=github&layout=compact&show_icon=false&include_all_commits=true&custom_title=Phuc Khang Bui&theme=city_lights" alt="phuckhangbui-stats"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&color=0246F7&center=true&vCenter=true&duration=2000&pause=1000&width=435&lines=Thanks+for+watching!">
+</p>
+<div align="center">
+  
+### Copyright &#169; 2023 Phuc Khang Bui
+
+ </div>
