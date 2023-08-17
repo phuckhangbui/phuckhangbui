@@ -37,7 +37,7 @@
 ### 📊 Stats
 
 <div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=phuckhangbui&rank_icon=github&layout=compact&show_icon=false&include_all_commits=true&custom_title=Phuc%20Khang%20Bui&theme=city_lights" alt="phuckhangbui-stats"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=phuckhangbui&rank_icon=github&layout=compact&show_icon=false&include_all_commits=true&theme=city_lights" alt="phuckhangbui-stats"/>
 </div>
 
 <p align="center">
